@@ -1,3 +1,4 @@
+// el archivo tiene que estar en '../support/pages/index';
 class pathnameP{
     constructor(){
         //CP006
